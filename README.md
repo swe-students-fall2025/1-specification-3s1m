@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 - [Saud Alsheddy](https://github.com/Saud-Al5)
 - [Apoorv Belgundi](https://github.com/apoorvib)
 - [Morin Zhou](https://github.com/Morinzzz)
-- [Name](put your link here)
+- [May Zhou](https://github.com/zz4206)
 
 ## Stakeholders
 
