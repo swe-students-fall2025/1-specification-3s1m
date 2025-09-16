@@ -11,11 +11,28 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Stakeholder
+- Name: Sultan
+- Role/ who they are: senior CS student at NYIT. Currently in a lot of study groups and group projects, working on his senior project this semester with 6 other classmates.
+- Date interviewed: 9/16
+
+Goals / needs:
+- easily propose a group meet up session fast with 2-5 time options
+- share a simple code or link that anyone can join (no account)
+- See everyone's selections on one screen
+- get a clear "winning time" to lock and share
+- Mobile flow that is quick for first time users
+
+Problems / frustrations:
+- chat messages like discord get buried and confusing to keep up with
+- Late replies and unclear emoji reactions
+- Hard to compare availability without manual tallying
+- Picking a time that later misses someone's availability
+- Time-zone difference adds confusion
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+GroupMeets is a simple mobile app where an organizer proposes 2–5 time slots, and share a link or code then friends vote on what works, and the organizer confirms the best study-session time quickly.
 
 ## User Requirements
 
