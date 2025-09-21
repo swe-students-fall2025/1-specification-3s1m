@@ -36,7 +36,21 @@ GroupMeets is a simple mobile app where an organizer proposes 2–5 time slots, 
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+As an organizer, I want to add 2–5 time options so I can offer choices.
+
+As an organizer, I want to remove a time option before creating so I can fix mistakes.
+
+As an organizer, I want the Create button disabled until there are at least two time options so I don’t create an empty session.
+
+As an organizer, I want an inline message if anything is missing so I know what to fix.
+
+As a participant, I want to open a link so I can join without any setup.
+
+As a participant, I want to enter a code to join so I can vote even if I don’t have the link.
+
+As any user, I want a clear error if a code is invalid so I know to check with the organizer.
+
+As any user, I want buttons large enough to tap on mobile so I can use it comfortably.
 
 ## Activity Diagrams
 
