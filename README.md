@@ -36,7 +36,25 @@ GroupMeets is a simple mobile app where an organizer proposes 2–5 time slots, 
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+As a college student of social science, I want to have a live transcript which I can annotate during the meeting so that I can later design surveys accordingly.
+
+As a user, I want to rate my availability across proposed times, so that the organizer can pick the most suitable option.
+
+As an architect, I want to be able to do mark up on the screen so that I can easily highlight changes and share feedback on designs in real time.
+
+As a high school student, I want to be able to do group chat with my friends and whenever I say a time in the group chat it allows me to schedule something at that time so that we can schedule time more easily.
+
+As an art student, I want to be able to leave comments for different time slots so that the organizer can better choose the best time.
+
+As a doctor, I want the app to send me reminder about the meeting time so that I wouldn’t forget about the chosen time.
+
+As a college student of economics, I want the app to link to calendar so that I can arrange other stuff accordingly.
+
+As a remote worker, I want the app to automatically adjust proposed time slots to my local time zone so that I don’t get confused about meeting times.
+
+As a project manager, I want to see a summary of everyone’s availability across time slots so that I can quickly confirm the best option without checking each response one by one.
+
+As a college student of computer science student, I want the app to generate minutes for me automatically so that I don’t need to spend too much time on summary.
 
 ## Activity Diagrams
 
