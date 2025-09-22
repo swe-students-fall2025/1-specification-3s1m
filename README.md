@@ -52,6 +52,26 @@ As any user, I want a clear error if a code is invalid so I know to check with t
 
 As any user, I want buttons large enough to tap on mobile so I can use it comfortably.
 
+As an organizer, I want to see a shareable code after creation so I can invite people quickly.
+
+As an organizer, I want to copy a link to the session so I can paste it in chat.
+
+As an organizer, I want to see a tally of votes per time so I can compare options.
+
+As an organizer, I want the top-voted option visually highlighted so I can spot the winner fast.
+
+As an organizer, I want to confirm a final time so everyone knows what we chose.
+
+As a participant, I want to see the session title and location so I know what I’m voting on.
+
+As a participant, I want to select one or more time options so I can show when I’m free.
+
+As a participant, I want to deselect an option before submitting so I can change my mind.
+
+As any user, I want labels and helper text on forms so I know what to type or do.
+
+As any user, I want a simple back action on each screen so I can recover from mistakes.
+
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
