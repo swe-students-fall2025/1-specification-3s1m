@@ -65,6 +65,7 @@ As an organizer, I want to export voting data, so I can share and analyze result
 As an organizer, I want to restrict voting to invited emails or a domain, so I can prevent unauthorized responses.
 
 As an organizer, I want to duplicate an existing poll, so I can reuse a prior setup quickly.
+
 As any user, I want to edit my vote until a deadline, so I can adapt to schedule changes.
 
 As a participant, I want to see existing votes before casting mine, so I can align with the team’s preferences.
@@ -76,7 +77,6 @@ As a participant, I want to propose a new time, so overlooked slots can be consi
 As a participant, I want to attach a short note to my vote, so my constraints are clear.
 
 As any user, I want confirmed results to auto-add to my calendar with notes and provide an ICS download, so I can avoid manual entry.
-
 
 ## Activity Diagrams
 
