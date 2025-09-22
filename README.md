@@ -52,6 +52,32 @@ As any user, I want a clear error if a code is invalid so I know to check with t
 
 As any user, I want buttons large enough to tap on mobile so I can use it comfortably.
 
+As an organizer, I want voters to state why they didn’t choose certain slots, so I can refine future time options.
+
+As an organizer, I want multi-select voting and a per-option roster of who chose it, so I can coordinate follow-ups.
+
+As an organizer, I want results to auto-generate charts, so I can spot the best time quickly.
+
+As an organizer, I want notifications for new options and deadline reminders, so participants respond on time.
+
+As an organizer, I want to export voting data, so I can share and analyze results outside the system.
+
+As an organizer, I want to restrict voting to invited emails or a domain, so I can prevent unauthorized responses.
+
+As an organizer, I want to duplicate an existing poll, so I can reuse a prior setup quickly.
+As any user, I want to edit my vote until a deadline, so I can adapt to schedule changes.
+
+As a participant, I want to see existing votes before casting mine, so I can align with the team’s preferences.
+
+As a participant, I want times to auto-detect and convert to my time zone with a manual override, so I can confirm availability accurately when traveling.
+
+As a participant, I want to propose a new time, so overlooked slots can be considered.
+
+As a participant, I want to attach a short note to my vote, so my constraints are clear.
+
+As any user, I want confirmed results to auto-add to my calendar with notes and provide an ICS download, so I can avoid manual entry.
+
+
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
