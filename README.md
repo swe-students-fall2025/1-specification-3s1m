@@ -72,6 +72,18 @@ As any user, I want labels and helper text on forms so I know what to type or do
 
 As any user, I want a simple back action on each screen so I can recover from mistakes.
 
+As an organizer, I want to create a new study session so I can coordinate in one place.
+
+As an organizer, I want to enter a session title so I can label what we’re meeting about.
+
+As an organizer, I want to enter a location (simple text) so I can tell people where we’ll meet.
+
+As a participant, I want the Submit button disabled until I pick at least one time so I don’t send an empty vote.
+
+As a participant, I want to return to Home easily so I’m not stuck after voting.
+
+As any user, I want the main flow completable in a few taps so it’s quick during busy days.
+
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
