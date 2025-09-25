@@ -69,7 +69,9 @@ GroupMeets is a simple mobile app where an organizer proposes 2–5 time slots, 
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+**User Story B – As a participant, I want to select one or more time options so I can show when I’m free.**
+
+![Activity Diagram – Select Time Options](images/B-Activity-select-times.png)
 
 ## Clickable Prototype
 
