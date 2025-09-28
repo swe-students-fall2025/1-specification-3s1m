@@ -69,6 +69,10 @@ GroupMeets is a simple mobile app where an organizer proposes 2–5 time slots, 
 
 ## Activity Diagrams
 
+**User Story A – As an organizer, I want to create a new study session so I can coordinate in one place.**
+
+![Activity Diagram for User Story A](images/A-Activity-create-session.png)
+
 **User Story B – As a participant, I want to select one or more time options so I can show when I’m free.**
 
 ![Activity Diagram – Select Time Options](images/B-Activity-select-times.png)
