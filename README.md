@@ -12,11 +12,13 @@ A little exercise to get started with the specification phase of the software de
 ## Stakeholders
 
 Stakeholder
+
 - Name: Sultan
 - Role/ who they are: senior CS student at NYIT. Currently in a lot of study groups and group projects, working on his senior project this semester with 6 other classmates.
 - Date interviewed: 9/16
 
 Goals / needs:
+
 - easily propose a group meet up session fast with 2-5 time options
 - share a simple code or link that anyone can join (no account)
 - See everyone's selections on one screen
@@ -24,6 +26,7 @@ Goals / needs:
 - Mobile flow that is quick for first time users
 
 Problems / frustrations:
+
 - chat messages like discord get buried and confusing to keep up with
 - Late replies and unclear emoji reactions
 - Hard to compare availability without manual tallying
@@ -86,7 +89,7 @@ As any user, I want the main flow completable in a few taps so it’s quick duri
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![Activity Diagram - Create Session](images/A-Activity-create-session.webp)
 
 ## Clickable Prototype
 
