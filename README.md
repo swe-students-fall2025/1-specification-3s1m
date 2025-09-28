@@ -79,4 +79,4 @@ GroupMeets is a simple mobile app where an organizer proposes 2–5 time slots, 
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Clickable prototype](https://www.figma.com/proto/6eGg7rFhEtJtKZtJTqmHQX/GroupMeets---SWE-project-1---3s1m?node-id=0-1&t=GWzit9CpjvCZszR3-1)
