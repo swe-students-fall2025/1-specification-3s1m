@@ -45,9 +45,9 @@ GroupMeets is a simple mobile app where an organizer proposes 2–5 time slots, 
 - As an organizer, I want an inline message if the title is missing so I know what to fix.  
 - As an organizer, I want to see a shareable code after creation so I can invite people quickly.  
 - As an organizer, I want to copy a link to the session so I can paste it in chat.  
-- As an organizer, I want a quick “open as participant” action so I can check what voters will see.  
+- As an organizer, I want a quick “open as participant” action so I can vote and check what voters will see.  
 - As an organizer, I want to see a tally of votes per time so I can compare options.  
-- As an organizer, I want the top-voted option visually highlighted so I can spot the winner fast.  
+- As an organizer, I want the top-voted options ordered so I can spot the winner fast.  
 - As an organizer, I want to confirm a final time so everyone knows what we chose.  
 - As an organizer, I want a confirmation screen showing title, location, and final time so I can share it again.  
 - As an organizer, I want a “copy details” action on confirmation so I can paste the final info in chat.  
