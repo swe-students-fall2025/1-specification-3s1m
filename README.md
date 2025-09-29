@@ -77,6 +77,10 @@ GroupMeets is a simple mobile app where an organizer proposes 2–5 time slots, 
 
 ![Activity Diagram – Select Time Options](images/B-Activity-select-times.png)
 
+## Wireframe diagrams
+
+[Design link](https://www.figma.com/design/6eGg7rFhEtJtKZtJTqmHQX/GroupMeets---SWE-project-1---3s1m?node-id=0-1&p=f&t=qjTl31zwteMbSv1H-0)
+
 ## Clickable Prototype
 
 [Clickable prototype](https://www.figma.com/proto/6eGg7rFhEtJtKZtJTqmHQX/GroupMeets---SWE-project-1---3s1m?node-id=0-1&t=GWzit9CpjvCZszR3-1)
